@@ -1,0 +1,16 @@
+C:\Users\Qasimov\source\repos\tasktest\tasktest\bin\Debug\net5.0\tasktest.exe
+C:\Users\Qasimov\source\repos\tasktest\tasktest\bin\Debug\net5.0\tasktest.deps.json
+C:\Users\Qasimov\source\repos\tasktest\tasktest\bin\Debug\net5.0\tasktest.runtimeconfig.json
+C:\Users\Qasimov\source\repos\tasktest\tasktest\bin\Debug\net5.0\tasktest.runtimeconfig.dev.json
+C:\Users\Qasimov\source\repos\tasktest\tasktest\bin\Debug\net5.0\tasktest.dll
+C:\Users\Qasimov\source\repos\tasktest\tasktest\bin\Debug\net5.0\ref\tasktest.dll
+C:\Users\Qasimov\source\repos\tasktest\tasktest\bin\Debug\net5.0\tasktest.pdb
+C:\Users\Qasimov\source\repos\tasktest\tasktest\obj\Debug\net5.0\tasktest.csproj.AssemblyReference.cache
+C:\Users\Qasimov\source\repos\tasktest\tasktest\obj\Debug\net5.0\tasktest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qasimov\source\repos\tasktest\tasktest\obj\Debug\net5.0\tasktest.AssemblyInfoInputs.cache
+C:\Users\Qasimov\source\repos\tasktest\tasktest\obj\Debug\net5.0\tasktest.AssemblyInfo.cs
+C:\Users\Qasimov\source\repos\tasktest\tasktest\obj\Debug\net5.0\tasktest.csproj.CoreCompileInputs.cache
+C:\Users\Qasimov\source\repos\tasktest\tasktest\obj\Debug\net5.0\tasktest.dll
+C:\Users\Qasimov\source\repos\tasktest\tasktest\obj\Debug\net5.0\ref\tasktest.dll
+C:\Users\Qasimov\source\repos\tasktest\tasktest\obj\Debug\net5.0\tasktest.pdb
+C:\Users\Qasimov\source\repos\tasktest\tasktest\obj\Debug\net5.0\tasktest.genruntimeconfig.cache
